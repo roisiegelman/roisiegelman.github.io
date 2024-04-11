@@ -84,6 +84,6 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-# navbar-img: "/photos/IMG-20211121-WA0073.jpg"
-#footer-img: "/assets/img/bgimage.png"
+# navbar-img: chinese-dragon.jpg"
+#footer-img: "chinese-dragon.jpg"
 # page-img: "chinese-dragon.jpg"
