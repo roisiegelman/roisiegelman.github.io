@@ -85,6 +85,6 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-# navbar-img: "/photos/IMG-20211121-WA0073.jpg"
+# navbar-img: "https://private-user-images.githubusercontent.com/166688546/321543944-c51b5741-992c-48df-9c80-4bf95ec18132.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI4MjIxMDMsIm5iZiI6MTcxMjgyMTgwMywicGF0aCI6Ii8xNjY2ODg1NDYvMzIxNTQzOTQ0LWM1MWI1NzQxLTk5MmMtNDhkZi05YzgwLTRiZjk1ZWMxODEzMi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxMVQwNzUwMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYTU3YmM0MzM3MmVkZjE3Y2YwOWIwYmU3ZjljYzIxMjc3ZTgxMWY4YTNlYTQyMTQ5YjczY2FjMDI0OTliZDcwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.8xpPAONe4qbPtALUtF2DnnbvX125zeRLfbNo8fTEqtA"
 #footer-img: "/assets/img/bgimage.png"
 # page-img: "/photos/IMG-20211121-WA0073.jpg"
