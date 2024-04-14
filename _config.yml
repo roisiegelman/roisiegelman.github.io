@@ -62,7 +62,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-# keywords: "Roi,Siegelman,Epigenetics,BC subtypes#"
+# keywords: "Roi, Siegelman, Epigenetics,BC subtypes#"
 
 ######################################
 # --- Colours / background image --- #
@@ -85,6 +85,6 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-# navbar-img: "chinese-dragon.jpg"
-#footer-img: "chinese-dragon.jpg"
-# page-img: "chinese-dragon.jpgg"
+# navbar-img: "Photos/chinese-dragon.jpg"
+#footer-img: "Photos/chinese-dragon.jpg"
+# page-img: "Photos/chinese-dragon.jpg"
