@@ -30,7 +30,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-avatar: 77042.jpg
+avatar: /Photos/77042.jpg
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -62,7 +62,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-# keywords: "Roi,Siegelman,Epigenetics,BC subtypes#"
+# keywords: "Roi, Siegelman, Epigenetics,BC subtypes#"
 
 ######################################
 # --- Colours / background image --- #
@@ -85,6 +85,6 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-# navbar-img: "chinese-dragon.jpg"
-#footer-img: "chinese-dragon.jpg"
-# page-img: "chinese-dragon.jpgg"
+# navbar-img: "/Photos/chinese-dragon.jpg"
+#footer-img: "/Photos/chinese-dragon.jpg"
+# page-img: "/Photos/chinese-dragon.jpg"
