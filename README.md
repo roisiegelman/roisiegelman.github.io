@@ -3,6 +3,7 @@
 Hello, my name is Roi Siegelman
 
 * [My lab's website](https://www.weizmann.ac.il/dept/irb/shema/)
+* [Cousre repository](https://github.com/szabgab/wis-python-course-2024-04/)
 
 * * [Liron Hoffman](https://liroh99.github.io/)
 
