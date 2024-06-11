@@ -4,6 +4,8 @@ Hello, my name is Roi Siegelman
 
 * [My lab's website](https://www.weizmann.ac.il/dept/irb/shema/)
 * [My assignments](https://github.com/roisiegelman/assignmets/)
+* * [My Project](https://github.com/roisiegelman/Project/)
+
 
 * [Cousre repository](https://github.com/szabgab/wis-python-course-2024-04/)
 
